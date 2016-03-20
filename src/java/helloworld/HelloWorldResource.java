@@ -73,6 +73,7 @@ public class HelloWorldResource {
     @Produces("text/html")
     public String getXml() {
         // add some codee hear
+        // add samewath else
         return "<html><body><h1>Hello "+nameStorage.getName()+"!</h1></body></html>";
     }
 
