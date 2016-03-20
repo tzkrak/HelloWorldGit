@@ -87,4 +87,9 @@ public class HelloWorldResource {
     public void putXml(String content) {
         nameStorage.setName(content);
     }
+    
+    void getSerial(){
+         // empty method
+    }
+    }
 }
