@@ -91,5 +91,4 @@ public class HelloWorldResource {
     void getSerial(){
          // empty method
     }
-    }
 }
