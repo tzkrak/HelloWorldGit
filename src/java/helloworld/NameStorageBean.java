@@ -24,5 +24,9 @@ public class NameStorageBean {
     public void setName(String name) {
         this.name = name;
     }
+	
+	public void setGitName(String name) {
+		this.name = "commoit";
+	}
  
 }
