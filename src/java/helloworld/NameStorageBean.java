@@ -30,5 +30,7 @@ public class NameStorageBean {
 	}
    public vodi QuicChange(){
 	   // on git hub
-   }
-}
+
+	   testJson {"key":"value", ar:[fadfa"''P)
+	   
+	   }
