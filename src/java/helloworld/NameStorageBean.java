@@ -28,5 +28,7 @@ public class NameStorageBean {
 	public void setGitName(String name) {
 		this.name = "commoit";
 	}
- 
+   public vodi QuicChange(){
+	   // on git hub
+   }
 }
