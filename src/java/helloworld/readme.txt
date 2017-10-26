@@ -74,6 +74,7 @@ podsumowanie roboty rekonesans zrobiony -> scenariusz dzialania
 3. porzadki na bazie, parzadki na zrodlachh - ZMIANA NAZWY I ZALOZENIE NOWEGO KATALOGU IMAGA (imagecache zostwiany)
 4. start bazy, start serwisu
 5. eksport danych synchronizatorem data 2000.01.10 (nie skryptu usuwanie karte)
+6. start cronow - sprawdzenie czy sie generuja wgladowki i synchronizacja katlogow imagee
 ----
 mod_rewirtere (jak dziala phop jak dziala javascript)
 ---
