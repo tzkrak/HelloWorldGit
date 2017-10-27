@@ -91,5 +91,8 @@ public class HelloWorldResource {
     void getSerial(){
          // empty method
 		 // adnotacje metody adnotacji
+		 // zmiana piatek
+		 // kolejna zmiana piatek
+		 // kolejna zmiana piatek
     }
 }
