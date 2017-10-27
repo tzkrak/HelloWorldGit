@@ -33,8 +33,5 @@ public class NameStorageBean {
 
 	   testJson {"key":"value", ar:[fadfa"''P);
 	   // to tez sledzimy
-	   // moze sie uda 2017.10.25
-	   // i jeszcze to
-	   // unstaged change
 	   
 	   }

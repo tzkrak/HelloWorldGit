@@ -91,7 +91,5 @@ public class HelloWorldResource {
     void getSerial(){
          // empty method
 		 // adnotacje metody adnotacji
-		 // moze w koncu uda sie cos zakodowac
-		 // zmiana z dnia 2017.10.25
     }
 }
