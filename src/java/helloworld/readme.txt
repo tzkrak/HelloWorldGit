@@ -69,8 +69,8 @@ matejko 019 / 11532
 ----
 podsumowanie roboty rekonesans zrobiony -> scenariusz dzialania
 ----
-1. stopowanie apacha
-2. kopia bazy, kopia zrodel-bez image, 
+x 1. stopowanie apacha 
+x 2. kopia bazy, kopia zrodel-bez image, 
 3. porzadki na bazie, parzadki na zrodlachh - ZMIANA NAZWY I ZALOZENIE NOWEGO KATALOGU IMAGA (imagecache zostwiany)
 4. start bazy, start serwisu
 5. eksport danych synchronizatorem data 2000.01.10 (nie skryptu usuwanie karte)
@@ -82,5 +82,7 @@ https://app.socialbicycles.com/maintenance_records/1048250/edit?edit_token=4kjk1
 ---
 
 generowanie linkowk
+---
+mie zapiminal o linkach pozniej zrobie drop table
 ----
 mension live traslator

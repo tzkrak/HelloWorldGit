@@ -35,3 +35,18 @@ public class NameStorageBean {
 	   // to tez sledzimy
 	   
 	   }
+//
+auto-delete
+====
+/s
+/SET:CPLConfig=c:\Users\Paulina\Documents\praca\mzr_rawicz\Musnet Biały\CPLCONFIG
+/SET:CPLBasePath=c:\Users\Paulina\Documents\praca\mzr_rawicz\Musnet Biały\DB\CPL
+/SET:NumberDll=
+/SET:DBList=c:\Users\Paulina\Documents\praca\mzr_rawicz\Musnet Biały\DB\CPL\dblist.cpl
+/SET:CPLTmp=C:\Documents and Settings\admin\Ustawienia lokalne\Temp
+/SET:InterfacePath=c:\Users\Paulina\Documents\praca\mzr_rawicz\Musnet Biały\Interfaces\
+/SETMEDIAPATH:Default=c:\Users\Paulina\Documents\praca\mzr_rawicz\Musnet Biały\DB\media\
+
+kombinacje ze skryptem (czesc rzeczy jest na dtd -ustawiania) 
+----
+zrob kopie i prztestuj wczesnij (plan dzialow) - w domu odblokowac plan dzialo i git-
